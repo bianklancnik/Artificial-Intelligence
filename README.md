@@ -5,6 +5,7 @@ Here are the search algorithms, that work on squared matrix, where the goal for 
 Heuristics for A* and IDA* is calculated using Manhattan distance.
 
 Example of a labirinth:
+
 -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
 
 -1,-2,4,4,-1,4,4,4,4,4,-1
